@@ -1,21 +1,7 @@
 node+koa2+mysql 
 
-> 现在最新的代码有变动，请参照最新的代码，新增了上传头像、分页、markdown语法等
-
 ### 创建数据库 
 
-登录数据库
-```
-$ mysql -u root -p
-```
-创建数据库
-```
-$ create database nodesql;
-```
-使用创建的数据库
-```
-$ use nodesql;
-```
 
 > database: nodesql  tables: users posts comment  (已经在lib/mysql建表)
 
